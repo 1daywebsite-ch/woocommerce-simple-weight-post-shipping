@@ -2,13 +2,13 @@
 
 ## Beschreibung ##
 
-### Einfaches gewichtbasierter Versand für das PostPac-Paketangebot der Schweizer Post (post.ch) ###
+### Einfacher gewichtbasierter Versand für das PostPac-Paketangebot der Schweizer Post (post.ch) ###
 
 Natürlich funktioniert das nur, wenn im Produkt eine Gewichtsangabe steht:
 
 ![simple-weight-post-shipping-eins](simple-weight-post-shipping-eins.jpg)
 
-Im Warenkorb wird die ausgewählte PostPac-Versandmethode angezeigt, mit dem entsprechenden Pakettarif für das Gesamtgewicht des Warenkorbs.
+Im Warenkorb (sowie auf der Kassenseite) wird die ausgewählte PostPac-Versandmethode angezeigt, mit dem entsprechenden Pakettarif für das Gesamtgewicht des Warenkorbs. Die Auswahl erscheint auf der Kassenseite nur, wenn eine Lieferadresse mit Land Schweiz eingegeben wird.
 
 ![simple-weight-post-shipping-zwei](simple-weight-post-shipping-zwei.jpg)
 
