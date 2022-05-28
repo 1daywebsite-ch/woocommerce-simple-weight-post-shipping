@@ -8,15 +8,17 @@ Natürlich funktioniert das nur, wenn im Produkt eine Gewichtsangabe steht:
 
 ![simple-weight-post-shipping-eins](simple-weight-post-shipping-eins.jpg)
 
-Anschliessend den Bestellstatus auf "Fertiggestellt" setzen und rechts bei "Bestell Aktionen" "Aktualisieren" klicken. So wird die E-Mail ausgelöst, dass die Bestellung fertig gestellt sei.
-
-Die Sendungsnummer wird daraufhin in der Kundin-E-Mail erscheinen, sowie in ihrem Kundenkonto.
+Im Warenkorb wird die ausgewählte PostPac-Versandmethode angezeigt, mit dem entsprechenden Pakettarif für das Gesamtgewicht des Warenkorbs.
 
 ![simple-weight-post-shipping-zwei](simple-weight-post-shipping-zwei.jpg)
 
-sdfdfsdf
+Da die PostPac-Versandtarife nur bis 30 kg gelten, gibt es automatisch eine Warnung, falls das Gesamtgewicht des Warenkorbs darüber liegt. Bis der Warenkorb wieder unter 30 kg liegt, wird der Zugang zur Kassenseite blockiert.
 
 ![simple-weight-post-shipping-drei](simple-weight-post-shipping-drei.jpg)
+
+sssss
+
+![simple-weight-post-shipping-vier](simple-weight-post-shipping-vier.jpg)
 
 ## Installation ##
 Oben rechts das Plugin als ZIP-Datei runterladen und das Plugin-Verzeichnis auspacken.
@@ -30,4 +32,4 @@ Es gibt folgende zwei Möglichkeiten der Installation:
 ## Changelog ##
 
 ### 1.0.0 ###
-Erste Version: Getestet mit Woocommerce 4.2 und WordPress 5.4.1
+Erste Version: Getestet mit Woocommerce 6.5.1 und WordPress 6.0
