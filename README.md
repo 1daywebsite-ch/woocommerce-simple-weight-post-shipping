@@ -16,7 +16,7 @@ Da die PostPac-Versandtarife nur bis 30 kg gelten, gibt es automatisch eine Warn
 
 ![simple-weight-post-shipping-drei](simple-weight-post-shipping-drei.jpg)
 
-sssss
+Die PostPac-Versandmethoden gelten nur innerhalb der Schweiz und die Gewichtstarife können in den WooCommmerce-Einstellungen frei angepasst werden. Es gibt die Möglichkeite, PostPac Economy, PostPac Priority und Swiss-Express "Mond" zu aktivieren.
 
 ![simple-weight-post-shipping-vier](simple-weight-post-shipping-vier.jpg)
 
@@ -28,6 +28,7 @@ Es gibt folgende zwei Möglichkeiten der Installation:
 1. Plugin-Verzeichnis in das Verzeichnis `/wp-content/plugins/` raufladen und anschliessend Plugin in WordPress aktivieren.
 2. Plugin durch "Plugins" - "Installieren" - "Plugin Hochladen" in WordPress raufladen und anschliessend Plugin aktivieren.
 
+Sprachdatei Deutsch liegt bei. Texte über LocoTranslate abändern.
 
 ## Changelog ##
 
