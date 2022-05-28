@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Simple Weight post.ch Shipping\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-28 16:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: wc-simple-weight"
+
+#. Author of the plugin
+msgid "AFB"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:39
+#: includes/class-wc-simple-weight-post-express.php:39
+#: includes/class-wc-simple-weight-post-economy.php:40
+msgid "Enable"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enable Shipping Methods for Swiss Post PostPac"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-economy.php:11
+msgid "PostPac Economy"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-economy.php:45
+#: includes/class-wc-simple-weight-post-economy.php:48
+msgid "PostPac Economy (2 Werktage, inkl. MWST)"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-economy.php:12
+msgid ""
+"PostPac Economy (2 Werktage, inkl. MWST) - Enable this method if you want to "
+"offer PostPac Economy as a shipping method"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-economy.php:56
+msgid "PostPac Economy bis 10 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-economy.php:51
+msgid "PostPac Economy bis 2 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-economy.php:61
+msgid "PostPac Economy bis 30 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:11
+msgid "PostPac Priority"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:44
+#: includes/class-wc-simple-weight-post-priority.php:47
+msgid "PostPac Priority (nächster Werktag, inkl. MWST)"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:12
+msgid ""
+"PostPac Priority (nächster Werktag, inkl. MWST) - Enable this method if you "
+"want to offer PostPac Priority as a shipping method"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:55
+msgid "PostPac Priority bis 10 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:50
+msgid "PostPac Priority bis 2 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:60
+msgid "PostPac Priority bis 30 kg"
+msgstr ""
+
+#: woocommerce-simple-weight-shipping.php:64
+#, php-format
+msgid ""
+"Sorry, your cart exceeds the maximum weight of %d %s for PostPac (Swiss Post)"
+" Shipping. You can reduce items in your cart to complete this order. If you "
+"want parcels over the maximum weight for PostPac sent to you, please contact "
+"us via the contact form. Thank you!"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:11
+msgid "Swiss-Express «Mond»"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:44
+#: includes/class-wc-simple-weight-post-express.php:47
+msgid "Swiss-Express «Mond» (nächster Werktag bis 9 Uhr, inkl. MWST)"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:12
+msgid ""
+"Swiss-Express «Mond» (nächster Werktag bis 9 Uhr, inkl. MWST) - Enable this "
+"method if you want to offer Swiss-Express «Mond» as a shipping method"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:55
+msgid "Swiss-Express «Mond» bis 10 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:50
+msgid "Swiss-Express «Mond» bis 2 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:60
+msgid "Swiss-Express «Mond» bis 30 kg"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-priority.php:46
+#: includes/class-wc-simple-weight-post-express.php:46
+#: includes/class-wc-simple-weight-post-economy.php:47
+msgid "Title to be displayed on cart and checkout page"
+msgstr ""
+
+#: includes/class-wc-simple-weight-post-express.php:89
+#: includes/class-wc-simple-weight-post-economy.php:91
+msgid "Weight: "
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Simple Weight post.ch Shipping"
+msgstr ""

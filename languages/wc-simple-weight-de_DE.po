@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Simple Weight post.ch Shipping\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-28 16:25+0000\n"
+"PO-Revision-Date: 2022-05-28 16:33+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: wc-simple-weight"
+
+#. Author of the plugin
+msgid "AFB"
+msgstr "AFB"
+
+#: includes/class-wc-simple-weight-post-priority.php:39
+#: includes/class-wc-simple-weight-post-express.php:39
+#: includes/class-wc-simple-weight-post-economy.php:40
+msgid "Enable"
+msgstr "Aktivieren"
+
+#. Description of the plugin
+msgid "Enable Shipping Methods for Swiss Post PostPac"
+msgstr "Versandmethoden für Schweizer Post PostPac aktivieren"
+
+#: includes/class-wc-simple-weight-post-economy.php:11
+msgid "PostPac Economy"
+msgstr "PostPac Economy"
+
+#: includes/class-wc-simple-weight-post-economy.php:45
+#: includes/class-wc-simple-weight-post-economy.php:48
+msgid "PostPac Economy (2 Werktage, inkl. MWST)"
+msgstr "PostPac Economy (2 Werktage, inkl. MWST)"
+
+#: includes/class-wc-simple-weight-post-economy.php:12
+msgid ""
+"PostPac Economy (2 Werktage, inkl. MWST) - Enable this method if you want to "
+"offer PostPac Economy as a shipping method"
+msgstr ""
+"PostPac Economy (2 Werktage, inkl. MWST) - Aktivieren Sie diese "
+"Versandmethode, falls Sie PostPac Economy als Versandmethode anbieten wollen"
+
+#: includes/class-wc-simple-weight-post-economy.php:56
+msgid "PostPac Economy bis 10 kg"
+msgstr "PostPac Economy bis 10 kg"
+
+#: includes/class-wc-simple-weight-post-economy.php:51
+msgid "PostPac Economy bis 2 kg"
+msgstr "PostPac Economy bis 2 kg"
+
+#: includes/class-wc-simple-weight-post-economy.php:61
+msgid "PostPac Economy bis 30 kg"
+msgstr "PostPac Economy bis 30 kg"
+
+#: includes/class-wc-simple-weight-post-priority.php:11
+msgid "PostPac Priority"
+msgstr "PostPac Priority"
+
+#: includes/class-wc-simple-weight-post-priority.php:44
+#: includes/class-wc-simple-weight-post-priority.php:47
+msgid "PostPac Priority (nächster Werktag, inkl. MWST)"
+msgstr "PostPac Priority (nächster Werktag, inkl. MWST)"
+
+#: includes/class-wc-simple-weight-post-priority.php:12
+msgid ""
+"PostPac Priority (nächster Werktag, inkl. MWST) - Enable this method if you "
+"want to offer PostPac Priority as a shipping method"
+msgstr ""
+"PostPac Priority (nächster Werktag, inkl. MWST) - Aktvieren Sie diese "
+"Methode, falls Sie PostPac Priority als Versandmethode anbieten wollen"
+
+#: includes/class-wc-simple-weight-post-priority.php:55
+msgid "PostPac Priority bis 10 kg"
+msgstr "PostPac Priority bis 10 kg"
+
+#: includes/class-wc-simple-weight-post-priority.php:50
+msgid "PostPac Priority bis 2 kg"
+msgstr "PostPac Priority bis 2 kg"
+
+#: includes/class-wc-simple-weight-post-priority.php:60
+msgid "PostPac Priority bis 30 kg"
+msgstr "PostPac Priority bis 30 kg"
+
+#: woocommerce-simple-weight-shipping.php:64
+#, php-format
+msgid ""
+"Sorry, your cart exceeds the maximum weight of %d %s for PostPac (Swiss Post)"
+" Shipping. You can reduce items in your cart to complete this order. If you "
+"want parcels over the maximum weight for PostPac sent to you, please contact "
+"us via the contact form. Thank you!"
+msgstr ""
+"Tut uns leid, Ihr Warenkorb übersteigt das maximale Gewicht von %d %s für "
+"PostPac (Schweizer Post) Versand. Sie können die Anzahl Produkte im "
+"Warenkorb reduzieren, um diese Bestellung abzuschliessen. Falls Sie Pakete "
+"über dem maximalen Gewicht von PostPac zugestellt haben möchten, "
+"kontaktieren Sie uns bitte über das Kontaktformular. Danke!"
+
+#: includes/class-wc-simple-weight-post-express.php:11
+msgid "Swiss-Express «Mond»"
+msgstr "Swiss-Express «Mond»"
+
+#: includes/class-wc-simple-weight-post-express.php:44
+#: includes/class-wc-simple-weight-post-express.php:47
+msgid "Swiss-Express «Mond» (nächster Werktag bis 9 Uhr, inkl. MWST)"
+msgstr "Swiss-Express «Mond» (nächster Werktag bis 9 Uhr, inkl. MWST)"
+
+#: includes/class-wc-simple-weight-post-express.php:12
+msgid ""
+"Swiss-Express «Mond» (nächster Werktag bis 9 Uhr, inkl. MWST) - Enable this "
+"method if you want to offer Swiss-Express «Mond» as a shipping method"
+msgstr ""
+"Swiss-Express «Mond» (nächster Werktag bis 9 Uhr, inkl. MWST) - Aktivieren "
+"Sie diese Versandmethode, falls Sie  Swiss-Express «Mond» als Versandmethode "
+"anbieten wollen"
+
+#: includes/class-wc-simple-weight-post-express.php:55
+msgid "Swiss-Express «Mond» bis 10 kg"
+msgstr "Swiss-Express «Mond» bis 10 kg"
+
+#: includes/class-wc-simple-weight-post-express.php:50
+msgid "Swiss-Express «Mond» bis 2 kg"
+msgstr "Swiss-Express «Mond» bis 2 kg"
+
+#: includes/class-wc-simple-weight-post-express.php:60
+msgid "Swiss-Express «Mond» bis 30 kg"
+msgstr "Swiss-Express «Mond» bis 30 kg"
+
+#: includes/class-wc-simple-weight-post-priority.php:46
+#: includes/class-wc-simple-weight-post-express.php:46
+#: includes/class-wc-simple-weight-post-economy.php:47
+msgid "Title to be displayed on cart and checkout page"
+msgstr "Titel, der auf der Warenkorb- und Kassenseite angezeigt wird"
+
+#: includes/class-wc-simple-weight-post-express.php:89
+#: includes/class-wc-simple-weight-post-economy.php:91
+msgid "Weight: "
+msgstr "Gewicht:"
+
+#. Name of the plugin
+msgid "WooCommerce Simple Weight post.ch Shipping"
+msgstr "WooCommerce Simple Weight post.ch Shipping"
