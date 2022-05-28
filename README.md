@@ -2,9 +2,9 @@
 
 ## Beschreibung ##
 
-### Einfache Sendungsverfolgung für Sendungen der Schweizer Post (post.ch) ###
+### Einfaches gewichtbasierter Versand für das PostPac-Paketangebot der Schweizer Post (post.ch) ###
 
-In WooCommerce unter "Bestellungen" erscheint neu eine Metabox mit dem Titel "Post.ch Sendungsverfolgung (Tracking)". Einfach den Paketcode der Post für das abzuschickende Paket (Briefe gehen auch) eingeben und mit "Aktualisieren" speichern.
+Natürlich funktioniert das nur, wenn im Produkt eine Gewichtsangabe steht:
 
 ![simple-weight-post-shipping-eins](simple-weight-post-shipping-eins.jpg)
 
