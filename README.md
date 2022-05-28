@@ -14,9 +14,9 @@ Die Sendungsnummer wird daraufhin in der Kundin-E-Mail erscheinen, sowie in ihre
 
 ![simple-weight-post-shipping-zwei](simple-weight-post-shipping-zwei.jpg)
 
-sssss
+sdfdfsdf
 
-[simple-weight-post-shipping-drei](simple-weight-post-shipping-drei.jpg)
+[simple weight post shipping drei](simple-weight-post-shipping-drei.jpg)
 
 ## Installation ##
 Oben rechts das Plugin als ZIP-Datei runterladen und das Plugin-Verzeichnis auspacken.
